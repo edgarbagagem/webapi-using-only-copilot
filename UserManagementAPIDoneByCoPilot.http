@@ -1,0 +1,6 @@
+@UserManagementAPIDoneByCoPilot_HostAddress = http://localhost:5193
+
+GET {{UserManagementAPIDoneByCoPilot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UserManagementAPIDoneByCoPilot.props" />
+</Project>
